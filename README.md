@@ -36,7 +36,7 @@ Here is the dataset used - https://github.com/venkichinni/UberAnalytics_DataEngi
 ## Scripts for project
 1. [Extract Python File](Merge-Files/extract.py)
 2. [Load Python File](Merge-Files/load.py)
-3. [Transform Python File](mage-files/transform.py)
+3. [Transform Python File](Merge-Files/transform.py)
 
 
 
