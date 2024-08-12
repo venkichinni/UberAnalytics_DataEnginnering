@@ -39,6 +39,4 @@ Here is the dataset used - https://github.com/venkichinni/UberAnalytics_DataEngi
 3. [Transform Python File](mage-files/transform.py)
 
 
-## Complete Video Tutorial
-Video Link - https://www.youtube.com/watch?v=WpQECq5Hx9g
 
